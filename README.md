@@ -1,6 +1,7 @@
-# modweb:materialize-connection-status
+# appworkshop:materialize-connection-status
 
-Materialize bottom style sheet modal disables input until modal is dismissed on reconnect.
+Materialize bottom style sheet modal disables input until modal is dismissed on reconnect. Based on
+[modweb:materialize-connection-status](https://github.com/modweb/meteor-materialize-connection-status).
 
 # Check it out
 
@@ -11,7 +12,7 @@ Materialize bottom style sheet modal disables input until modal is dismissed on 
 Add materialize-connection-status to your app:
 
 ```sh
-meteor add modweb:materialize-connection-status
+meteor add appworkshop:materialize-connection-status
 ```
 
 Add the Materialize package of your choice, we recommend the [official package](https://atmospherejs.com/materialize/materialize).
