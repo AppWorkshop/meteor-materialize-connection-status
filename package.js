@@ -1,7 +1,7 @@
 Package.describe({
   name: 'appworkshop:materialize-connection-status',
   summary: 'Materialized connection status with cordova/phonegap support.',
-  version: '0.0.3',
+  version: '0.0.4',
   git: 'https://github.com/appworkshop/meteor-materialize-connection-status'
 });
 
